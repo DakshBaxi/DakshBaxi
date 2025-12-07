@@ -17,17 +17,6 @@ I design and build **scalable backend systems**, focusing on:
 
 ---
 
-### 🏗 What I'm Building
-
-- **RediGo** → Redis-compatible distributed in-memory DB in Go  
-  _Replication • AOF persistence • TTL engine • Concurrency_
-  <br>🔗 https://github.com/DakshBaxi/Redigo
-
-- **DFS-Go** → Distributed file system in Go (HDFS-style)  
-  _Chunking • Replication • Heartbeats • Parallel I/O_
-  <br>🔗 https://github.com/DakshBaxi/Distributed-File-System-Go
-
----
 
 ### 🏆 What I’ve Achieved
 - 🚀 Co-Founded **Beiyo** — hostel booking & management platform  
